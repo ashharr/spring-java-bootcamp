@@ -5,7 +5,7 @@ import com.gamerunner.gamerunnerapp.game.MarioGame;
 import com.gamerunner.gamerunnerapp.game.PacmanGame;
 import com.gamerunner.gamerunnerapp.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App01AppGamingBasicJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
