@@ -1,9 +1,9 @@
 package com.gamerunner.gamerunnerapp;
 
 import com.gamerunner.gamerunnerapp.game.GameRunner;
-import com.gamerunner.gamerunnerapp.game.MarioGame;
+//import com.gamerunner.gamerunnerapp.game.MarioGame;
 import com.gamerunner.gamerunnerapp.game.PacmanGame;
-import com.gamerunner.gamerunnerapp.game.SuperContraGame;
+//import com.gamerunner.gamerunnerapp.game.SuperContraGame;
 
 public class App01AppGamingBasicJava {
 
