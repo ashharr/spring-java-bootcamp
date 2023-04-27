@@ -1,10 +1,10 @@
-package com.gamerunner.gamerunnerapp;
+package com.springbootcamp.springboot.learnspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GameRunnerAppApplicationTests {
+class LearnSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
